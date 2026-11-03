@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hiba
 
+### 🌍 Independent Talent Sourcer
+
+I connect talented software developers with international professional opportunities.
+
+### 🎯 Recruitment Focus
+- Full-Stack Developers
+- Backend Developers
+- Frontend Developers
+- DevOps Engineers
+
+### 🌎 Connecting With Developers Worldwide
+Currently interested in connecting with talented developers from Egypt, Iran and other countries.
+
+### 🤝 Let's Connect!
+I'm always happy to connect with developers and technology professionals.
+
+**LinkedIn:** [Add your LinkedIn profile URL]
 <!--
 **hibach26/hibach26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
