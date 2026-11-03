@@ -16,7 +16,7 @@ Currently interested in connecting with talented developers from Egypt, Iran and
 ### 🤝 Let's Connect!
 I'm always happy to connect with developers and technology professionals.
 
-**LinkedIn:** [Add your LinkedIn profile URL]
+**LinkedIn:** [www.linkedin.com/in/hiba-ch-0b79a1448]
 <!--
 **hibach26/hibach26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
